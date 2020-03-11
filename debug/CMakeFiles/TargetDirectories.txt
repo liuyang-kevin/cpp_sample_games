@@ -1,0 +1,5 @@
+/Users/fd/16_Games/debug/CMakeFiles/rebuild_cache.dir
+/Users/fd/16_Games/debug/CMakeFiles/edit_cache.dir
+/Users/fd/16_Games/debug/01 Tetris/CMakeFiles/rebuild_cache.dir
+/Users/fd/16_Games/debug/01 Tetris/CMakeFiles/edit_cache.dir
+/Users/fd/16_Games/debug/01 Tetris/CMakeFiles/tetris.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/fd/16_Games/debug/01 Tetris",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/usr/local/include   -std=c++11 -g -std=c++11 -g -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/tetris.dir/main.cpp.o -c \"/Users/fd/16_Games/01 Tetris/main.cpp\"",
+  "file": "/Users/fd/16_Games/01 Tetris/main.cpp"
+}
+]
